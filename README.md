@@ -21,6 +21,8 @@ Describe a change in plain words. Studio AI writes the Luau, puts it in the righ
 
 Studio AI is a desktop app plus a Roblox Studio plugin. The app is installed on your computer and connects to the place you have open in Studio. It reads the game tree, creates scripts, objects and interfaces, shows every change it makes, and lets you undo them all with one click.
 
+**All you need is the app and Roblox Studio.** No API key, no account setup, no extra tools.
+
 **Local Claude inside.** Claude is built into the app and works there as a local assistant: the app and the plugin live on your machine, and you never have to copy your project into a chat window.
 
 ## Features
